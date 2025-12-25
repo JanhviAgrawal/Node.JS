@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Summary (Resume-Friendly)
+## 📌 Project Summary
 
 AnimeApp is a **full-stack Node.js web application** built using **Express.js**, **MongoDB**, and **EJS**, implementing complete **CRUD functionality**.  
 The project demonstrates backend development skills including **routing, database modeling, server-side rendering, and MVC-style structuring**, along with responsive UI design using **Bootstrap**.
