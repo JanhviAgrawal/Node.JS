@@ -1,5 +1,3 @@
-````md
-
 # 🎌 AnimeApp — Full-Stack Node.js CRUD Application
 
 
