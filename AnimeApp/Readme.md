@@ -408,11 +408,7 @@ Feel free to connect for collaboration, feedback, or opportunities:
 
 **LinkedIn:**
 
-👉 [https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/your-linkedin-username/)
-
-
-
-*(Replace with your actual LinkedIn profile link)*
+👉 [https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/janhvi-agrawal-j2004)
 
 
 
